@@ -29,7 +29,7 @@ const Virtualtoursection = () => {
                                             class="text-decoration-none"
                                             target="_blank"
                                         >
-                                        <h3 class="texthead fs-25">Get Directions</h3>
+                                        <h3 class="texthead fs-25">Get directions</h3>
                                         </a>
                                     </div>
                                     <div class="parahold">
