@@ -25,15 +25,17 @@ const Virtualtoursection = () => {
                                         <img src="./images/Group 60.png" alt="" class="w-25" /> 
                                     </div>
                                     <div class="headhold d-flex justify-content-center mt-3">
-                                        <h3 class="texthead fs-25">Get Directions</h3>
-                                    </div>
-                                    <div class="parahold">
-                                        <a href="https://www.google.com/maps/dir//Blossoms+Childcare+Nursery+West+Raynham,+West+Raynham,+Fakenham/@52.7923248,0.6663746,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47d783d3e4639db9:0x1ec7b870bda3e7da!2m2!1d0.7365857!2d52.7923455?hl=en" 
+                                    <a href="https://www.google.com/maps/dir//Blossoms+Childcare+Nursery+West+Raynham,+West+Raynham,+Fakenham/@52.7923248,0.6663746,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47d783d3e4639db9:0x1ec7b870bda3e7da!2m2!1d0.7365857!2d52.7923455?hl=en" 
                                             class="text-decoration-none"
                                             target="_blank"
                                         >
-                                            <p class="patext text-center">Find us easily and plan your <br /> route here</p>
+                                        <h3 class="texthead fs-25">Get Directions</h3>
                                         </a>
+                                    </div>
+                                    <div class="parahold">
+                                       
+                                            <p class="patext text-center">Find us easily and plan your <br /> route here</p>
+                                     
                                     </div>
                                 </div>
                             </div>
@@ -45,12 +47,14 @@ const Virtualtoursection = () => {
                                         <img src="./images/GLASS.png" alt="" class="w-25" /> 
                                         </div>
                                         <div class="headhold d-flex justify-content-center mt-3">
-                                            <h3 class="texthead fs-25"> Book Show Around</h3>
+                                        <Link to="/BookAShow-Around" className="text-decoration-none">
+                                            <h3 class="texthead fs-25"> Book show around</h3>
+                                            </Link>
                                         </div>
                                         <div class="parahold">
-                                            <Link to="/BookAShow-Around" className="text-decoration-none">
+                                          
                                                 <p class="patext text-center">Request a guided tour of our <br /> nursery here</p>
-                                            </Link>
+                                          
                                         </div>
                                 </div>
                             </div>
@@ -62,12 +66,13 @@ const Virtualtoursection = () => {
                                         <img src="./images/game.png" alt="" class="w-25" /> 
                                         </div>
                                         <div class="headhold d-flex justify-content-center mt-4">
-                                            <h3 class="texthead fs-25">Apply For A Space</h3>
+                                        <Link to="/ApplyForASpace" className="text-decoration-none">  <h3 class="texthead fs-25">Apply for a space</h3>
+                                        </Link>
                                         </div>
                                         <div class="parahold">
-                                            <Link to="/ApplyForASpace" className="text-decoration-none">
+                                           
                                                 <p class="patext text-center">Request a child’s space at our <br /> children’s nursery</p>
-                                            </Link>
+                                         
                                         </div>
                                 </div>
                             </div>
