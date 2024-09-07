@@ -51,10 +51,10 @@ const Formsection = () => {
     }
 
     return(
-        <section class="form">
-            <div class="container">
-                <div class="white-box p-5">
-                    <form action="#">
+        <section className="form">
+            <div className="container">
+                <div className="white-box p-5">
+                    <form onSubmit={submit}> {/* Add onSubmit here */}
                         <div class="row">
                             <div class="col-lg-6 px-md-5">
                                 <div class="form-group">
@@ -100,7 +100,8 @@ const Formsection = () => {
                         
 
                         <div class="form-group d-flex justify-content-center mt-5">
-                            <button  class="btn btn-sm pink-btn baloobhai regular text-white" onClick={submit}>Submit</button>
+                            <button type="submit" className="btn btn-sm pink-btn baloobhai regular text-white">Submit</button>
+                            {/* Changed onClick to type="submit" */}
                         </div>
                     </form>
                 </div>
