@@ -89,18 +89,18 @@ const Teamsection = () => {
                     <div class="col-lg-6">
                         <div class="member-holder bg-ltblue p-3">
                             <div class="member-info d-flex mb-3">
-                                <img src="./images/team/Amy _Blossoms_Childcare.webp" alt="" class="member-img" />
+                            <img src="./images/team/Beth_Blossoms_Childcare.webp" alt="" class="member-img" />
                                 <div class="member-details ms-3">
-                                    <h2 class="fredoka bold mb-0 text-heading">Amy</h2>
+                                    <h2 class="fredoka bold mb-0 text-heading">Beth</h2>
                                     <p class="baloobhai mb-1 text-heading">
-                                    Assistant Room Leader</p>
+                                    Room Leader</p>
                                 </div>
                             </div>
                             <div class="member-bio blue-dashed bg-transwhite">
                                 <p class="baloobhai mb-0">
                                 Level 6.<br />
-                                Amy joined the team as a Level 6 qualified Early Years Educator in January 2019, 
-                                before being promoted to Assistant Baby Room Leader.
+                                Beth joined with her Level 3 in August 2022 while studying for her Level 6, 
+                                then earned promotion to Toddler & Pre School Room Leader.
                                 </p>
                             </div>
                         </div>
@@ -173,9 +173,37 @@ const Teamsection = () => {
                                 </p>
                             </div>
 
+
+
+                            
+
                             
                         </div>
                     </div>
+
+
+
+                    <div class="col-lg-6">
+                        <div class="member-holder bg-ltblue p-3">
+                            <div class="member-info d-flex mb-3">
+                                <img src="./images/team/Amy _Blossoms_Childcare.webp" alt="" class="member-img" />
+                                <div class="member-details ms-3">
+                                    <h2 class="fredoka bold mb-0 text-heading">Amy</h2>
+                                    <p class="baloobhai mb-1 text-heading">
+                                    Assistant Room Leader</p>
+                                </div>
+                            </div>
+                            <div class="member-bio blue-dashed bg-transwhite">
+                                <p class="baloobhai mb-0">
+                                Level 6.<br />
+                                Amy joined the team as a Level 6 qualified Early Years Educator in January 2019, 
+                                before being promoted to Assistant Baby Room Leader.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+
 
 
 
