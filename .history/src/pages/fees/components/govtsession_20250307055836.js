@@ -16,7 +16,7 @@ const Govtsession = () => {
                         <div class="pb-2 text-center">
 
                             <p class="text-muted" style={{fontSize: "18px"}}>Standalone sessions only; these sessions cannot be used on the same day, and cannot be used in conjunction with part-funded sessions. Children must bring a bag of consumables with them for each session. 
-                                Children must take all waste home with them at the end of each session. 
+                                Children must take home all waste home with them at the end of each session. 
                                 Please ask for details.</p>
                         </div>
                         <div class="sessionholder baloobhai">

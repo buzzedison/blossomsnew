@@ -67,17 +67,17 @@ const Teamsection = () => {
                     <div class="col-lg-6">
                         <div class="member-holder bg-ltpink p-3">
                             <div class="member-info d-flex mb-3">
-                            <img src="./images/team/Amy _Blossoms_Childcare.webp" alt="" class="member-img" />
+                                <img src="./images/team/Carly_Blossoms_Childcare.webp" alt="" class="member-img" />
                                 <div class="member-details ms-3">
-                                    <h2 class="fredoka bold mb-0 text-heading">Amy</h2>
-                                    <p class="baloobhai mb-1 text-heading">Room Leader </p>
+                                    <h2 class="fredoka bold mb-0 text-heading">Carly</h2>
+                                    <p class="baloobhai mb-1 text-heading">Room Leader & SLP</p>
                                 </div>
                             </div>
                             <div class="member-bio pink-dashed bg-transwhite">
                                 <p class="baloobhai mb-0">
-                                Level 6  <br/>
-                                Amy joined the team as a Level 6 qualified Early Years Educator in January 2019,
-                                 before being promoted to Assistant Baby Room Leader then Baby Room Leader.
+                                Level 3, Studying Level 5 | Safeguarding Lead Practitioner.  <br/>
+                                Carly joined the team in September 2022 as a Level 3 Baby Room Leader. 
+                                She is currently studying for her Level 5 with us.
 
                                 </p>
                             </div>
@@ -183,7 +183,7 @@ const Teamsection = () => {
 
 
 
-                    {/* <div class="col-lg-6">
+                    <div class="col-lg-6">
                         <div class="member-holder bg-ltblue p-3">
                             <div class="member-info d-flex mb-3">
                                 <img src="./images/team/Amy _Blossoms_Childcare.webp" alt="" class="member-img" />
@@ -201,7 +201,7 @@ const Teamsection = () => {
                                 </p>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
 
 
 

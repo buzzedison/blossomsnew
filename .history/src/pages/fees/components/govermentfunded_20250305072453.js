@@ -12,26 +12,26 @@ const Governmentfunded = () => {
                
                     </div>
                     <div class="col-lg-8 pink-dashed">
-                        <h5 class="baloobhai text-center pt-4 pb-2 fw-bolder">Monday to Friday Funded Sessions (All Year, All-inclusive) Subject to availability.</h5>
+                        <h5 class="baloobhai text-center pt-4 pb-2 fw-bolder">Monday to Friday Sessions (All-inclusive)</h5>
                        <div class="container align-items-center"> <span class="text-center ">
-
-                       <div class="text-center">Funding can only be used during these set session times. All consumables are included in these sessions.</div></span></div>
+                        <span class="fw-bolder">Monday to Friday Funded Sessions (All Year, All-inclusive) Subject to availability.</span><br/>
+                       Funding can only be used during these set session times. All consumables are included in these sessions.</span></div>
                         <div class="sessionholder baloobhai">
                             <div class="d-flex justify-content-between">
-                                <p>Morning Sessions: 8am - 1pm (Includes 3 Hours of Funding)</p>
-                                <p> £27.50</p>
+                                <p>Morning Sessions: 8am - 1pm(5 hours)</p>
+                                <p> £16.50</p>
                             </div>
                             <div class="d-flex justify-content-between">
-                                <p>Afternoon Sessions: 1pm - 6pm (Includes 3 Hours of Funding)</p>
-                                <p>  £25.00</p>
+                                <p>Afternoon Sessions: 1pm - 6pm (5 hours)</p>
+                                <p>  £16.50</p>
                             </div>
+                            {/* <div class="d-flex justify-content-between">
+                                <p>School Days: 9am - 3pm</p>
+                                <p> £10.00</p>
+                            </div> */}
                             <div class="d-flex justify-content-between">
-                                <p>School Day Sessions: 9am - 3pm (Includes 3 Hours of Funding)</p>
-                                <p> £35.00</p>
-                            </div>
-                            <div class="d-flex justify-content-between">
-                                <p>Full Day Sessions: 8am - 6pm (Includes 7 Hours of Funding)</p>
-                                <p> £37.50
+                                <p>Full Day Sessions: 8am - 6pm (10 hours)</p>
+                                <p> £22.00
                                 </p>
                             </div>
                         </div>

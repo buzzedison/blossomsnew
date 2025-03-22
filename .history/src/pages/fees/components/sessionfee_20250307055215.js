@@ -20,7 +20,7 @@ const Sessionfee = () => {
                             </div>
                             <div class="d-flex justify-content-between">
                                 <p>Lates: 6pm - 7pm^</p>
-                                <p> £40.00
+                                <p> £60.00
                                 </p>
                             </div>
                             <div class="d-flex justify-content-between">

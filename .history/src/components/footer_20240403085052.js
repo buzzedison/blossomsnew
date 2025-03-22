@@ -33,12 +33,11 @@ const Footer = () => {
                     </div>
                     <div class="col-lg-3 mt-5">
                         <h1 class="textopen">Contact Information</h1>
-                        <p class="patext text-muted mt-4">Katie Gilkes BSc MA EYT <br/>
-                        Manager & Director<br/>
+                        <p class="patext text-muted mt-4">Katie Gilkes MA EYT <br/>
                             katie@nkchildcare.co.uk<br />
                             07887373737<br />
-                            Blossoms Childcare <br />
-                            Blenheim Square, <br />
+                            Blossoms Childcare Nursery<br />
+                            The Burr Centre, <br /> Blenheim Square, <br />
                             West Raynham, <br /> Fakenham, 
                             Norfolk NR21 7PA</p>
                     </div>

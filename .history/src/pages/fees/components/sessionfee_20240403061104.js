@@ -15,31 +15,31 @@ const Sessionfee = () => {
                         <div class="sessionholder baloobhai">
                             <div class="d-flex justify-content-between">
                                 <p>Earlies: 7am - 8am^</p>
-                                <p> £40.00
+                                <p> £35.75
                                 </p>
                             </div>
                             <div class="d-flex justify-content-between">
                                 <p>Lates: 6pm - 7pm^</p>
-                                <p> £40.00
+                                <p> £35.75
                                 </p>
                             </div>
                             <div class="d-flex justify-content-between">
                                 <p>Morning Sessions: 8am - 1pm</p>
-                                <p>£48.00
+                                <p>£42.75
                                 </p>
                             </div>
                             <div class="d-flex justify-content-between">
                                 <p>Afternoon Sessions: 1pm - 6pm</p>
-                                <p> £44.00
+                                <p> £42.75
                                 </p>
                             </div>
                             <div class="d-flex justify-content-between">
                                 <p>School Days: 9am - 3pm</p>
-                                <p>  £70.00</p>
+                                <p>  £57.75</p>
                             </div>
                             <div class="d-flex justify-content-between">
                                 <p>Full Day Sessions: 8am - 6pm</p>
-                                <p> £85.00
+                                <p> £74.25
 
                                 </p>
                             </div>

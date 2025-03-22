@@ -183,7 +183,7 @@ const Teamsection = () => {
 
 
 
-                    {/* <div class="col-lg-6">
+                    <div class="col-lg-6">
                         <div class="member-holder bg-ltblue p-3">
                             <div class="member-info d-flex mb-3">
                                 <img src="./images/team/Amy _Blossoms_Childcare.webp" alt="" class="member-img" />
@@ -201,7 +201,7 @@ const Teamsection = () => {
                                 </p>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
 
 
 
